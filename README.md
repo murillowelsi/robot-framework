@@ -1,2 +1,2 @@
-# Automação de testes usando Robot Framework
-Testes de UI utilizando a ferramenta Robot Framework
+# Test Automation using Robot Framework
+UI Tests repository using Robot Framework
